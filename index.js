@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     targetSection = document.querySelector('section.info');
                     break;
                 case 'contacto':
-                    targetSection = document.querySelector('section.horario');
+                    targetSection = document.querySelector('section.contacto');
                     break;
                 default:
                     break;
